@@ -1,2 +1,0 @@
-# Lyux
-LYUX
